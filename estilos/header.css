@@ -1,0 +1,31 @@
+.cabecalho{
+background-color: var(--cor-de-fundo-cabecalho);
+color:white;
+display:flex;
+justify-content:space-between;
+}
+
+.cabecalho--menu-hamburguer{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../img/Vector.png);
+}
+.cabecalho--img-home{
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.lista-menu{
+display: none;
+}
+
+.container--botao:checked ~ .lista-menu{
+    display: block;
+}
