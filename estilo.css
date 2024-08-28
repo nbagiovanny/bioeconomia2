@@ -10,6 +10,7 @@
 body{
 background-color: var(--cor-de-fundo);
 }
+
 .conteudo1{
     position: relative;
     background-color: #2B0C0C;
@@ -103,4 +104,13 @@ margin-top: 150px;
 background-color: #405639;
 margin-left: 1px;
 height: 200px;
+}
+
+@media (min-width: 1024px){
+    .banner1{
+        width: 3000px;
+    }
+
+
+
 }
