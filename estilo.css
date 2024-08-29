@@ -110,7 +110,13 @@ height: 200px;
     .banner1 img{
         width: 1150px;
     }
-
+   .conteudo1 {
+    left: 400px;
+    height: 400px;
+    width: 300px;
+    font-size: 40px;
+    line-height: 30px;
+   }
 
 
 }
