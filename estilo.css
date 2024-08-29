@@ -107,7 +107,7 @@ height: 200px;
 }
 
 @media (min-width: 1024px){
-    .banner1{
+    .banner1 img{
         width: 3000px;
     }
 
