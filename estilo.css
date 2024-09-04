@@ -97,14 +97,6 @@ bottom: 120px;
     position: absolute;
     top: 40px;
 }
-.conteudo5{
-position: relative;
-width: 150%;
-margin-top: 150px;
-background-color: #405639;
-margin-left: 1px;
-height: 200px;
-}
 
 @media (min-width: 1024px){
     .banner1 img{
@@ -126,7 +118,5 @@ height: 200px;
 .conteudo4 img{
     left: 1100px;
 }
-.conteudo5{
-    width: 700%;
-}
+
 }
