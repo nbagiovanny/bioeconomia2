@@ -118,5 +118,7 @@ bottom: 120px;
 .conteudo4 img{
     left: 1100px;
 }
-
+.conteudo4 p{
+    padding: 40px 5px;
+}
 }
